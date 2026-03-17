@@ -14,27 +14,35 @@ Used for:
  • Lifecycle management
  • Access logging
 
-⭐ S3 Versioning
+⭐ **S3 Versioning**
 
 Used for:
  • Maintaining file history
  • Recovering deleted or overwritten files
 
-⭐ S3 Lifecycle Policy
+⭐ **S3 Lifecycle Policy**
 
 Used for:
  • Automatic data archiving
  • Automatic deletion of old versions
 
-⭐ S3 Server Access Logging
+⭐ **S3 Server Access Logging**
 
 Used for:
  • Monitoring file access
  • Security auditing
 
+**Real World Applications**
+📁 Backup Storage Systems
+📊 Log Management Systems
+🌐 Website Hosting Storage
+🔐 Security Monitoring
+🏦 Compliance Requirements
 
 
+**Architecture Flow**
 
+![Project Screenshot](Screenshots/01-buckets-created.png)
 
 
 
