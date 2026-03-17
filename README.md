@@ -19,3 +19,10 @@ An older version of the uploaded file was restored by deleting the latest versio
 
 ![Project Screenshot](Screenshots/03-old-version-restore.png)
 
+Step 4 :
+Server access logging was enabled on the main bucket, and logs were configured to be delivered to the logging bucket.
+
+File upload and download operations were performed to generate access logs.
+
+![Project Screenshot](Screenshots/03-old-version-restore.png)
+
