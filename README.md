@@ -15,5 +15,7 @@ Multiple uploads of the same file were performed to generate different versions.
 ![Project Screenshot](Screenshots/02-versioning-enabled.png)
 
 Step 3 :
+An older version of the uploaded file was restored by deleting the latest version and accessing the previous version.
 
-03-old-version-restore.png
+![Project Screenshot](Screenshots/03-old-version-restore.png)
+
