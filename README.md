@@ -42,7 +42,7 @@ Used for:
 
 **Architecture Flow**
 
-![Project Screenshot](Architecture Flow.png)
+![Project Screenshot](Architecture-Flow.png)
 
 **Practical Steps with Real Meaning**
 
