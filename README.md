@@ -5,4 +5,4 @@ Two Amazon S3 buckets were created — one **main storage** bucket and one dedic
 
 The main bucket is used to store **application data**, while the log bucket is used to store access **logs generated**by the main bucket.
 
-![Project Screenshot](screenshots/step-1-s3-bucket-created.png)
+![Project Screenshot](screenshots/01-buckets-created.png)
