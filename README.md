@@ -29,5 +29,5 @@ File upload and download operations were performed to generate access logs.
 Step 5 :
 **Lifecycle policies** were configured to automatically transition objects to **lower-cost storage** classes and **delete older versions** after a defined period.
 
-![Project Screenshot](Screenshots/04-access-logs-generated.png)
+![Project Screenshot](Screenshots/05-lifecycle-rule-created.png)
 
