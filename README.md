@@ -42,7 +42,7 @@ Used for:
 
 **Architecture Flow**
 
-![Project Screenshot](Screenshots/01-buckets-created.png)
+![Project Screenshot](Architecture Flow.png)
 
 
 
